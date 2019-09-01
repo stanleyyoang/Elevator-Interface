@@ -2,4 +2,10 @@
 
 Design an elevator interface that is convenient to use
 
-![](elevator.gif)
+- Control Interface
+
+  - ![](outsideInterface.jpg)
+  - ![](insideInterface.jpg)
+
+- Operation of Control Interface
+  - ![](elevator.gif)
