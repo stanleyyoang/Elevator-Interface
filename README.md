@@ -73,6 +73,8 @@ repair men or firemen. Because these panels are used less often compared to the 
 and also require a key to, they should be placed in an area less likely to be used.
 
 **Touchscreen Design Implementation Prototype**
+
 It will have a diagonal length of 11 inches, so the size will be close to the iPad Pro,
 which could provide a sense of familiarity to the user.
+
 [Touchscreen Design Implementation Prototype](https://xd.adobe.com/view/924456c4-cbc2-4919-4263-eaa7eccc3970-e475/?hints=off)
