@@ -65,9 +65,14 @@ those two will be for the various floors. Then the top two buttons will be for t
 and for calling 911 for emergencies. All buttons will light up and will give an audio cue
 when pressed. The labels are next to the buttons to avoid wear and tear of users pressing the
 buttons. The alarm and call button are at the top to avoid accidental presses by children.
-The call button will be fully lit when call is placed and will flash when help is on the way,
+The call button will be fully lit when a call is placed and will flash when help is on the way,
 as clearly labeled next to the button.
 
 Between the screen and buttons are various panels used by non-normal users, such as
 repair men or firemen. Because these panels are used less often compared to the buttons
 and also require a key to, they should be placed in an area less likely to be used.
+
+**Touchscreen Design Implementation Prototype**
+It will have a diagonal length of 11 inches, so the size will be close to the iPad Pro,
+which could provide a sense of familiarity to the user.
+[Touchscreen Design Implementation Prototype](https://xd.adobe.com/view/924456c4-cbc2-4919-4263-eaa7eccc3970-e475/?hints=off)
