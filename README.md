@@ -22,7 +22,6 @@
 - If the interface does not have audio, the user is unsure if the button was pressed properly
 - If the interface does not indicate the direction, the user is unsure if the elevator is
   moving the same direction he/she wants to go
-- If the interface does not have audio, the user is unsure if the button was pressed properly
 
 **Common/Rare Uses**
 
@@ -48,7 +47,7 @@ buttons to indicate what floor the elevator will travel to when that button is p
 **How does the elevator provide feedback to the user?**
 
 The most common ways an elevator provides feedback is by having the button light up when
-pressed which indicates that it is in operation. Elevators also audio cues to notify the
+pressed which indicates that it is in operation, as well as providing audio cues to notify the
 user when the elevator has arrived at a destination.
 
 **Improved Control Interface**
