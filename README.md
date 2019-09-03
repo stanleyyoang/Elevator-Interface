@@ -50,6 +50,13 @@ The most common ways an elevator provides feedback is by having the button light
 pressed which indicates that it is in operation, as well as providing audio cues to notify the
 user when the elevator has arrived at a destination.
 
+**Common Mistakes**
+
+- It is easy for a child to hit the alarm or call button because it is as at the bottom
+- It is easy to miss your floor if you're not paying attention due to the lack of audio cues
+- It is easy to get on the wrong elevator because it does not display the direction the
+  elevator is traveling on the inside interface
+
 **Improved Control Interface**
 
 ![](sketchInterface.jpg)
