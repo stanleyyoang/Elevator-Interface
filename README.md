@@ -113,7 +113,7 @@ through the interface to understand its functionalities.
      too high to press prior to changing to the wheelchair accessibility mode. The left and right
      arrows will scroll through the floors that aren't currently visible. If the arrow does not
      change color that means there aren't any more floors in that direction.
-     - Press the third floor button. This demonstrates the interface as the elevator moves
-       upwards in this new interface.
-     - Press the back arrow in the bottom right corner to return to the normal elevator interface.
-     - End of prototype.
+     1. Press the third floor button. This demonstrates the interface as the elevator moves
+        upwards in this new interface.
+     2. Press the back arrow in the bottom right corner to return to the normal elevator interface.
+     3. End of prototype.
