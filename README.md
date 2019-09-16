@@ -117,3 +117,6 @@ through the interface to understand its functionalities.
         upwards in this new interface.
      2. Press the back arrow in the bottom right corner to return to the normal elevator interface.
      3. End of prototype.
+
+Gif of interface in action
+![](hw1.Yoang.gif)
