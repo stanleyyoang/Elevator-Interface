@@ -1,5 +1,7 @@
 # Elevator-Interface
 
+Link to github repository: https://github.com/stanleyyoang/Elevator-Interface
+
 # Part C
 **Control Interface**
 
