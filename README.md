@@ -1,5 +1,6 @@
 # Elevator-Interface
 
+# Part C
 **Control Interface**
 
 ![](outsideInterface.jpg)
@@ -23,6 +24,7 @@
 - If the interface does not indicate the direction, the user is unsure if the elevator is
   moving the same direction he/she wants to go
 
+# Part B
 **Common/Rare Uses**
 
 - To travel vertical distances in a building
@@ -78,6 +80,7 @@ Between the screen and buttons are various panels used by non-normal users, such
 repair men or firemen. Because these panels are used less often compared to the buttons
 and also require a key to, they should be placed in an area less likely to be used.
 
+# Part A
 **Touchscreen Design Implementation Prototype**
 
 It will have a diagonal length of 11 inches, so the size will be close to the iPad Pro,
